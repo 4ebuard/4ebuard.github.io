@@ -1,1 +1,1 @@
-# 4ebuard.github.io strange
+# 4ebuard.github.io
