@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "homepage": "https://4ebuard.github.io/",
   "scripts": {
     "watch": "tsc -w",
     "dev": "nodemon --inspect dist/index.js",
